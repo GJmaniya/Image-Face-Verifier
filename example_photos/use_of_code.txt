@@ -1,0 +1,1 @@
+This folder contains photos of Robert John Downey Jr. and Donald Trump. For testing purposes only, you can put them in different folders using this code, but you will have to create two new folders for that.
